@@ -43,7 +43,7 @@ ${renderLicenseBadge(data.license)}
 * [Usage](#usage)
 * [Contact-Me](#contact-me)
 * [Contributors](#contributors)
-* [Testing](#testing)
+* [Tests](#tests)
 ${renderLicenseLink(data.license)}
 
 ## Description
