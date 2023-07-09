@@ -2,7 +2,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 const path = require('path');
-const generateMarkdown = require('./generateMarkdown.js');
+const generateMarkdown = require('./util/generateMarkdown.js');
 
 // Array of questions
 const questions = [
@@ -59,6 +59,7 @@ function init() {
   inquirer.prompt(questions).then((responses) => {
     console.log('Creating README.md...');
     writeToFile('./README.md', generateMarkdown({ ...responses }));
+    console.log("Your README file has been created!");
   });
 }
 
@@ -69,3 +70,5 @@ function writeToFile(fileName, data) {
 
 // Call the initialization function
 init();
+
+
