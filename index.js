@@ -29,7 +29,7 @@ const questions = [
   {
     type: 'input',
     name: 'contributing',
-    message: 'Please provide contribution guidelines:',
+    message: 'Please provide who contributed to this project:',
   },
   {
     type: 'input',
@@ -58,7 +58,7 @@ const questions = [
 function init() {
   inquirer.prompt(questions).then((responses) => {
     console.log('Creating README.md...');
-    writeToFile('./generated/README.md', generateMarkdown({ ...responses }));
+    writeToFile('./README.md', generateMarkdown({ ...responses }));
   });
 }
 
