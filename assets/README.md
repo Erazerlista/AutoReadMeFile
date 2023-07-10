@@ -3,6 +3,7 @@
 ## Tutorial Video
 
 <video src="assets\README video walkthrough.webm" alt="movie of deployment">
+
 ## Guide Questions
 
 What was your motivation?
