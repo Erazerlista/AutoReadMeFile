@@ -2,27 +2,27 @@
 
 ## Tutorial Video
 
-C:\Users\Mac98\Desktop\Node Assignment 9\assets\Walkthrough for README.gif
+in assets
 
 ## Guide Questions
 
-# What was your motivation?
+## What was your motivation?
 
 To create a README file generator and understand node, javascript and code in general.
 
-# Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+## Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 
 To understand more on ho to use node javascript and how to bring in inquiere.
 
-# What problem does it solve?
+## What problem does it solve?
 
 By creating an generator for a readme file it solves on having to create one from scratch over and over.
 
-# What did you learn?
+## What did you learn?
 
 It helped me understand code a little more and how it would help me future wise for potential jobs.
 
-# What makes your project stand out?
+## What makes your project stand out?
 
 I think it stands out because it's user friendly and creates a readme file easily. The inclusion of a license also
 help userschoose a correct license for their work.
