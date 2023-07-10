@@ -1,6 +1,6 @@
-# Read-Me Generator
+# readme generator
 by undefined
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Table of Contents
 * [Description](#description)
@@ -14,13 +14,13 @@ by undefined
 *
 
 ## Description
-A readme generated code 
+a generator for readme file
 
 ## Requirements
 undefined
 
 ## Usage
-NA
+na
 
 ## Contact-Me
 * Name - undefined
@@ -32,8 +32,8 @@ undefined
 
 ## Testing
 ```
-NA
+na
 ```
 
 ## License
-Licensed under None license.
+Licensed under GPL 3.0 license.
