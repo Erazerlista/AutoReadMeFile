@@ -2,8 +2,7 @@
 
 ## Tutorial Video
 
-[![README File Walkthrough](C:\Users\Mac98\Desktop\Node Assignment 9\assets\screenshot for project.png)](assets\README video walkthrough.webm)
-
+<video src="assets\README video walkthrough.webm" alt="movie of deployment">
 ## Guide Questions
 
 What was your motivation?
