@@ -2,7 +2,7 @@
 
 ## Tutorial Video
 
-<video src="assets\Walkthrough for README.gif" alt="movie of deployment">
+<img src="assets/Walkthrough_for_README.gif" alt="GIF of deployment">
 
 ## Guide Questions
 
