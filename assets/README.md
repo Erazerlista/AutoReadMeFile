@@ -2,7 +2,7 @@
 
 ## Tutorial Video
 
-in assets
+https://drive.google.com/file/d/1QOOJHQ-kzwwt9GBhcvYJcTcxkn9NRv1E/view
 
 ## Guide Questions
 
