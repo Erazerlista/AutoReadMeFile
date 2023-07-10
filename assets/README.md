@@ -2,7 +2,8 @@
 
 ## Tutorial Video
 
-<img src="assets/Walkthrough_for_README.gif" alt="GIF of deployment">
+[<img src="assets/Walkthrough_for_README.gif" alt="GIF of deployment">
+](https://github.com/Erazerlista/AutoReadMeFile/blob/eb9c1e44730628b865f5d012a8e7b3b09e569696/assets/Walkthrough%20for%20README.gif)
 
 ## Guide Questions
 
