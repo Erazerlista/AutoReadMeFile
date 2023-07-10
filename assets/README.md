@@ -2,7 +2,7 @@
 
 ## Tutorial Video
 
-<video src="assets\README video walkthrough.webm" alt="movie of deployment">
+<video src="assets\Walkthrough for README.gif" alt="movie of deployment">
 
 ## Guide Questions
 
